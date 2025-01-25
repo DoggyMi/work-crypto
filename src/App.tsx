@@ -190,7 +190,7 @@ function App() {
 
   return (
     <>
-      <h1>普通加密</h1>
+      <h1>DES加密</h1>
       <Space direction="vertical" style={{ width: '100%' }}>
         <div style={{ display: 'flex', alignItems: 'center' }}>
           <div style={{ width: '80px' }}>明文：</div>
